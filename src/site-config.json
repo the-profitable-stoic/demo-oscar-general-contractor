@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Oscar General Contractor",
+    "phone": "+17868179532",
+    "category": "general contractor",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-mountain-bold",
+      "categoryGroup": "general-contractor",
+      "name": "Mountain Bold",
+      "recipeFile": "general-contractor/mountain-bold.astro",
+      "colors": {
+        "primary": "#0F1D30",
+        "primaryDark": "#0b1422",
+        "primaryLight": "#c3c7cb",
+        "secondary": "#1E3A5F",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0F1D30",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Trusted General Contractor",
+      "heroSubline": "Building and renovating homes with integrity and expertise. Serving Miami-Dade and Broward counties.",
+      "aboutTitle": "Your Partner in South Florida Construction",
+      "aboutText": [
+        "Oscar General Contractor was founded over a decade ago with a simple mission: to provide honest, reliable, and high-quality construction services to the South Florida community. We started small, with a focus on residential renovations, and have grown into a full-service general contracting firm.",
+        "Our approach is built on clear communication, meticulous planning, and a commitment to exceeding expectations. We understand that your home is your most valuable asset, and we treat every project with the utmost care and respect. We are fully licensed and insured for your protection.",
+        "We are proud to be a part of the Miami community and actively support local initiatives. We believe in giving back to the neighborhoods where we live and work, ensuring a brighter future for all of South Florida."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Miami's unique building codes, climate challenges, and architectural styles."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Detailed and accurate estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled professionals dedicated to delivering exceptional results on every project."
+        },
+        {
+          "title": "Reliable Communication",
+          "description": "We keep you informed every step of the way, from initial consultation to final walkthrough."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today!",
+      "ctaSubline": "Contact Oscar General Contractor for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "home-renovations",
+        "name": "Home Renovations",
+        "shortDescription": "Transform your living space with our expert home renovation services.",
+        "description": "Oscar General Contractor specializes in comprehensive home renovation services throughout Miami-Dade and Broward counties. We handle everything from kitchen and bathroom remodeling to complete home transformations. We understand the unique challenges of renovating homes in South Florida, including dealing with humidity, salt air corrosion, and hurricane preparedness. Our team works closely with you to design a space that meets your needs and reflects your personal style. Whether you're looking to update your kitchen with modern appliances and custom cabinetry, create a spa-like bathroom retreat, or completely reconfigure your living space, we have the expertise and experience to bring your vision to life. We use only the highest quality materials and employ skilled craftsmen to ensure lasting beauty and functionality. We always obtain the necessary permits and ensure all work is up to code.",
+        "process": [
+          "Step 1: Initial Consultation & Design – We discuss your vision, budget, and timeline.",
+          "Step 2: Detailed Planning & Permitting – We create detailed plans and secure all necessary permits.",
+          "Step 3: Construction & Project Management – Our experienced team executes the renovation with precision and care.",
+          "Step 4: Final Walkthrough & Completion – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced living space",
+          "Improved energy efficiency",
+          "Personalized design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical home renovation take?",
+            "answer": "The timeline for a home renovation depends on the scope of the project. We provide a detailed timeline during the initial consultation and keep you informed throughout the process."
+          },
+          {
+            "question": "Do I need to move out during the renovation?",
+            "answer": "Whether you need to move out depends on the extent of the renovation. We will discuss this with you during the planning phase and minimize disruption to your daily life as much as possible."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, Oscar General Contractor is fully licensed and insured in the state of Florida. We can provide proof of insurance upon request."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Create the kitchen of your dreams with our expert remodeling services.",
+        "description": "Oscar General Contractor provides complete kitchen remodeling services tailored to Miami homes. From modernizing outdated layouts to installing custom cabinetry and countertops, we handle every aspect of the project. We consider the unique challenges of Miami kitchens, such as humidity and limited space, when designing your new kitchen. Our team is experienced in working with a variety of materials, including granite, quartz, and stainless steel. We collaborate closely with you to create a functional and stylish kitchen that meets your specific needs. Whether you're looking for a sleek, modern design or a warm, traditional feel, we can bring your vision to life. We handle all plumbing and electrical work, ensuring everything is up to code. From new appliances to custom lighting, we take care of every detail. We understand that the kitchen is the heart of the home, and we strive to create a space that you'll love for years to come.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your style, needs, and budget.",
+          "Step 2: Material Selection – Choose from a wide range of high-quality materials.",
+          "Step 3: Installation & Construction – Expert installation by our skilled team.",
+          "Step 4: Final Inspection – Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetics",
+          "Energy-efficient appliances"
+        ],
+        "faq": [
+          {
+            "question": "How much does a kitchen remodel typically cost?",
+            "answer": "The cost of a kitchen remodel varies depending on the size of the kitchen, the materials used, and the complexity of the design. We provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Can you help me with the design of my new kitchen?",
+            "answer": "Yes, we offer complete design services to help you create the perfect kitchen for your home. Our experienced designers will work with you to develop a design that meets your needs and reflects your personal style."
+          },
+          {
+            "question": "Do you handle the plumbing and electrical work?",
+            "answer": "Yes, we are fully licensed and qualified to handle all plumbing and electrical work associated with your kitchen remodel. We ensure all work is up to code and meets the highest safety standards."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a relaxing oasis with our remodeling services.",
+        "description": "Oscar General Contractor specializes in bathroom remodeling projects in Miami. We understand the importance of creating a functional and relaxing space that meets your needs and reflects your personal style. We handle everything from minor updates to complete bathroom transformations. Our team is experienced in working with a variety of materials, including tile, stone, and glass. We consider the unique challenges of Miami bathrooms, such as humidity and limited ventilation, when designing your new bathroom. We can help you choose the right fixtures, lighting, and accessories to create a spa-like atmosphere. Whether you're looking to update your shower, install a new vanity, or completely reconfigure your bathroom layout, we have the expertise and experience to bring your vision to life. We handle all plumbing and electrical work, ensuring everything is up to code. We prioritize waterproofing to prevent moisture damage.",
+        "process": [
+          "Step 1: Consultation & Design – Discuss your vision and budget.",
+          "Step 2: Material Selection – Choose from a wide range of options.",
+          "Step 3: Demolition & Construction – Careful and efficient execution.",
+          "Step 4: Finishing Touches – Ensure every detail is perfect."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced comfort",
+          "Water conservation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "The timeline for a bathroom remodel depends on the scope of the project. We provide a detailed timeline during the initial consultation and keep you informed throughout the process."
+          },
+          {
+            "question": "What type of permits do I need for a bathroom remodel?",
+            "answer": "Permit requirements vary depending on the extent of the remodel. We handle all permit applications and ensure all work is up to code."
+          },
+          {
+            "question": "Can you help me choose the right fixtures and finishes?",
+            "answer": "Yes, we offer design services to help you choose the right fixtures, finishes, and accessories for your new bathroom. Our experienced designers will work with you to create a space that meets your needs and reflects your personal style."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with our expert roofing repair and replacement services.",
+        "description": "Oscar General Contractor offers comprehensive roofing services to protect your Miami home from the elements. We specialize in roof repair, replacement, and maintenance. We understand the unique challenges of Florida roofing, including hurricane-force winds, intense sun, and heavy rainfall. We work with a variety of roofing materials, including asphalt shingles, tile, and metal. Our team is experienced in identifying and repairing roof leaks, replacing damaged shingles, and reinforcing roofs to withstand hurricane-force winds. We provide free roof inspections to assess the condition of your roof and recommend the best course of action. Whether you need a minor repair or a complete roof replacement, we have the expertise and experience to get the job done right. We are committed to providing quality workmanship and exceptional customer service. We help navigate insurance claims for storm damage.",
+        "process": [
+          "Step 1: Roof Inspection – Thorough assessment of your roof's condition.",
+          "Step 2: Estimate & Planning – Detailed estimate and project plan.",
+          "Step 3: Repair or Replacement – Expert execution with quality materials.",
+          "Step 4: Final Inspection – Ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, especially after a major storm. Regular inspections can help identify and address potential problems before they become major issues."
+          },
+          {
+            "question": "What are the signs that my roof needs to be repaired or replaced?",
+            "answer": "Signs that your roof may need to be repaired or replaced include leaks, missing shingles, cracked or curled shingles, and excessive granule loss."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "We offer flexible financing options to help you afford the cost of a new roof. Contact us to learn more about our financing programs."
+          }
+        ]
+      },
+      {
+        "slug": "impact-windows-doors",
+        "name": "Impact Windows & Doors",
+        "shortDescription": "Protect your home from hurricanes with our impact-resistant windows and doors.",
+        "description": "Oscar General Contractor provides impact-resistant windows and doors to protect your Miami home from hurricanes and intruders. We offer a wide selection of styles and designs to complement your home's architecture. Our impact windows and doors are engineered to withstand hurricane-force winds and flying debris. They also provide added security against break-ins and reduce noise pollution. Our team is experienced in installing impact windows and doors to meet all local building codes and insurance requirements. We provide free consultations to assess your needs and recommend the best products for your home. Whether you're looking to protect your home from hurricanes or improve its security, we have the expertise and experience to get the job done right. We can help you navigate insurance discounts for installing impact windows and doors.",
+        "process": [
+          "Step 1: Consultation & Assessment – Discuss your needs and budget.",
+          "Step 2: Product Selection – Choose from a wide range of styles.",
+          "Step 3: Professional Installation – Expert installation by our skilled team.",
+          "Step 4: Final Inspection – Ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Hurricane protection",
+          "Increased security",
+          "Noise reduction",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of impact windows and doors?",
+            "answer": "Impact windows and doors provide hurricane protection, increased security, noise reduction, and improved energy efficiency. They also increase the value of your home."
+          },
+          {
+            "question": "Are impact windows and doors expensive?",
+            "answer": "Impact windows and doors are an investment in your home's safety and security. While they may be more expensive than standard windows and doors, they offer significant long-term benefits."
+          },
+          {
+            "question": "Do impact windows and doors require special maintenance?",
+            "answer": "Impact windows and doors require minimal maintenance. Simply clean them with soap and water as needed."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-work",
+        "name": "Concrete Work",
+        "shortDescription": "Expert concrete services for driveways, patios, sidewalks, and foundations.",
+        "description": "Oscar General Contractor provides expert concrete services for residential and commercial properties in Miami. We specialize in driveways, patios, sidewalks, foundations, and retaining walls. We understand the unique challenges of working with concrete in South Florida's climate, including humidity, salt air, and expansive soils. Our team is experienced in preparing the site, pouring the concrete, and finishing the surface to ensure a durable and long-lasting result. We use only the highest quality concrete mixes and employ skilled craftsmen to ensure superior workmanship. Whether you need a new driveway, a patio for entertaining, or a foundation for your new home, we have the expertise and experience to get the job done right. We handle all necessary permits and inspections.",
+        "process": [
+          "Step 1: Site Preparation – Proper excavation and leveling.",
+          "Step 2: Formwork & Reinforcement – Building strong foundations.",
+          "Step 3: Concrete Pouring & Finishing – Expert execution.",
+          "Step 4: Curing & Sealing – Ensuring long-lasting durability."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Durable and long-lasting",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take for concrete to cure?",
+            "answer": "Concrete typically takes 28 days to fully cure. However, it can be walked on after 24 hours and driven on after 7 days."
+          },
+          {
+            "question": "What is the best way to prevent concrete from cracking?",
+            "answer": "Proper site preparation, reinforcement, and curing are essential to prevent concrete from cracking."
+          },
+          {
+            "question": "Do you offer decorative concrete options?",
+            "answer": "Yes, we offer a variety of decorative concrete options, including stamped concrete, colored concrete, and exposed aggregate."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Professional interior and exterior painting services to refresh your home.",
+        "description": "Oscar General Contractor offers professional interior and exterior painting services to refresh your Miami home. We use high-quality paints and materials to ensure a long-lasting and beautiful finish. Our team is experienced in preparing surfaces, applying primer, and painting with precision and care. We offer a wide range of colors and finishes to suit your personal style. We understand the unique challenges of painting in South Florida's climate, including humidity and intense sun. We use mildew-resistant paints for bathrooms and kitchens and UV-resistant paints for exterior surfaces. Whether you're looking to update your interior walls, repaint your exterior siding, or refinish your cabinets, we have the expertise and experience to get the job done right. We protect your furniture and belongings during the painting process.",
+        "process": [
+          "Step 1: Surface Preparation – Cleaning, sanding, and priming.",
+          "Step 2: Painting – Applying high-quality paints.",
+          "Step 3: Cleanup – Leaving your home spotless.",
+          "Step 4: Final Inspection – Ensuring your satisfaction."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Protection from the elements",
+          "Improved air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to paint a room?",
+            "answer": "The time it takes to paint a room depends on the size of the room and the complexity of the job. We provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "What type of paint should I use for my bathroom?",
+            "answer": "We recommend using mildew-resistant paint for bathrooms to prevent mold and mildew growth."
+          },
+          {
+            "question": "Do you offer color consultation services?",
+            "answer": "Yes, we offer color consultation services to help you choose the perfect colors for your home."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is proud to serve the residents of Fort Lauderdale, Florida. With a population of approximately 183,000, Fort Lauderdale boasts a unique blend of waterfront living and vibrant city life. We understand the specific needs of homeowners in Fort Lauderdale, especially those with homes built in the 1960s and 70s, many of which are located along the Intracoastal Waterway and require specialized attention due to the year-round heat and humidity. Our team has extensive experience in renovating and maintaining these beautiful properties, ensuring they withstand the test of time and the elements.\n\nFrom kitchen and bathroom remodels to complete home renovations, Oscar General Contractor provides comprehensive services to enhance your Fort Lauderdale home. We are committed to using high-quality materials and employing skilled craftsmen to deliver exceptional results. We also offer services tailored to waterfront properties, including seawall repairs and dock construction. Let us help you create the home of your dreams in sunny Fort Lauderdale.",
+        "localContext": "We are experts in addressing the unique needs of Fort Lauderdale homes, particularly those built in the mid-century era near the water, and we understand the challenges presented by the Florida climate.",
+        "nearbyAreas": [
+          "Wilton Manors",
+          "Oakland Park",
+          "Lauderdale-by-the-Sea"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is dedicated to providing top-notch general contracting services to the residents of Coral Springs, Florida. This vibrant city, home to approximately 134,000 people, is known for its meticulously planned communities and family-friendly atmosphere. Many homes in Coral Springs were built in the 1980s and 90s, and we specialize in updating and modernizing these properties to meet the needs of today's homeowners. We understand the importance of maintaining the aesthetic appeal of this well-planned city while enhancing the functionality and value of your home.\n\nWhether you're looking to renovate your kitchen, remodel your bathroom, or add an addition to your home, Oscar General Contractor has the expertise to bring your vision to life. We pride ourselves on our attention to detail, our commitment to customer satisfaction, and our ability to deliver projects on time and within budget. We also understand the challenges presented by the Florida heat and humidity and use materials and techniques that are specifically designed to withstand the local climate.",
+        "localContext": "We understand the unique construction styles and needs of planned community homes common in Coral Springs, built primarily in the 1980s and 90s, and we're adept at modernizing these spaces.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Tamarac"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is pleased to offer our comprehensive range of general contracting services to the residents of Pembroke Pines, Florida. With a population of approximately 172,000, Pembroke Pines is a thriving city characterized by its well-planned developments and family-oriented community. Many homes in Pembroke Pines were built in the 1990s and beyond, and we are experts in updating and customizing these properties to reflect the latest trends and the individual needs of homeowners. We are committed to providing exceptional service and delivering outstanding results.\n\nFrom small renovations to large-scale construction projects, Oscar General Contractor has the experience and expertise to handle any job. We understand the importance of working closely with our clients to ensure that their vision is realized. We also offer a wide range of services, including kitchen and bathroom remodeling, home additions, and complete home renovations. We take into account the year-round heat and humidity, ensuring that our projects are built to last and withstand the challenges of the Florida climate.",
+        "localContext": "We are familiar with the construction standards and common layouts of Pembroke Pines homes, typically found in planned developments built in the 1990s, and we tailor our services accordingly.",
+        "nearbyAreas": [
+          "Miramar",
+          "Cooper City",
+          "Weston"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor provides premier general contracting services to the discerning residents of Boca Raton, Florida. Known for its luxurious waterfront estates and upscale living, Boca Raton is home to approximately 100,000 people. We specialize in working with high-end properties, providing renovations and remodeling services that meet the highest standards of quality and craftsmanship. We understand the unique needs of homeowners in Boca Raton and are committed to delivering exceptional results that exceed expectations.\n\nWhether you're looking to update your kitchen, remodel your bathroom, or create a stunning outdoor living space, Oscar General Contractor has the expertise to bring your vision to life. We use only the finest materials and employ skilled craftsmen to ensure that every project is completed to perfection. We also have extensive experience in working with waterfront properties, addressing the specific challenges posed by the coastal environment and the year-round heat and humidity.",
+        "localContext": "We specialize in luxury home renovations in Boca Raton, understanding the specific requirements and high expectations associated with waterfront estates and upscale residences.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Highland Beach",
+          "Deerfield Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is pleased to offer our expert general contracting services to the residents of West Palm Beach, Florida. With a population of approximately 120,000, West Palm Beach is a vibrant city with a rich history and a diverse architectural landscape. Many homes in West Palm Beach date back to the 1920s-50s, and we specialize in restoring and preserving these historic properties while also incorporating modern amenities and conveniences. We are committed to providing exceptional service and delivering outstanding results.\n\nFrom restoring original architectural details to updating kitchens and bathrooms, Oscar General Contractor has the expertise to handle any project. We understand the importance of preserving the character of historic homes while also ensuring that they are functional and comfortable for modern living. We also take into account the year-round heat and humidity, using materials and techniques that are specifically designed to withstand the local climate. We are passionate about helping homeowners in West Palm Beach preserve the beauty and history of their homes.",
+        "localContext": "We are experienced in renovating and restoring historic homes in West Palm Beach, built primarily between the 1920s and 1950s, preserving their original charm while incorporating modern functionality.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami Gardens",
+        "slug": "miami-gardens-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is proud to extend our professional general contracting services to the community of Miami Gardens, Florida. As a growing city with a diverse population, Miami Gardens presents unique opportunities for home renovation and improvement. We are dedicated to providing high-quality workmanship and personalized service to meet the specific needs of Miami Gardens homeowners. Whether you're looking to update your kitchen, expand your living space, or enhance your outdoor area, our team is equipped to handle projects of any size and complexity.\n\nWe understand the importance of affordability and value, and we work closely with our clients to develop solutions that fit their budget without compromising on quality. From initial design to final completion, we are committed to delivering exceptional results that exceed your expectations. We are also mindful of the local climate and building codes, ensuring that your project is completed safely and efficiently.",
+        "localContext": "We are familiar with the diverse housing styles and community needs in Miami Gardens, providing tailored solutions for homeowners seeking to improve their properties.",
+        "nearbyAreas": [
+          "Miramar",
+          "Pembroke Pines",
+          "North Miami"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is delighted to serve the residents of Hollywood, Florida, with our comprehensive range of general contracting services. Hollywood's diverse architecture, from historic homes to modern condos, presents exciting opportunities for renovation and remodeling. We understand the unique characteristics of Hollywood properties and are committed to providing tailored solutions to meet the individual needs of our clients.\n\nWhether you're looking to restore a vintage bungalow, update a beachfront condo, or expand your family home, Oscar General Contractor has the expertise to bring your vision to life. We prioritize clear communication, meticulous attention to detail, and a commitment to delivering projects on time and within budget. We are also well-versed in local building codes and regulations, ensuring that your project is completed smoothly and efficiently.",
+        "localContext": "We offer a wide array of services in Hollywood, catering to the diverse architectural styles and needs of homeowners, from historic preservation to modern renovations.",
+        "nearbyAreas": [
+          "Dania Beach",
+          "Hallandale Beach",
+          "Pembroke Pines"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Oscar General Contractor is pleased to offer top-tier general contracting services to the residents of Miramar, Florida. Known for its family-friendly atmosphere and diverse community, Miramar presents a wide range of opportunities for home improvement and renovation. We are committed to providing exceptional craftsmanship, personalized service, and competitive pricing to meet the needs of Miramar homeowners.\n\nFrom kitchen and bathroom remodels to complete home renovations, Oscar General Contractor has the expertise to handle any project. We understand the importance of working closely with our clients to ensure that their vision is realized. We take pride in our attention to detail, our commitment to customer satisfaction, and our ability to deliver projects on time and within budget. We also understand the challenges presented by the Florida heat and humidity and use materials and techniques that are specifically designed to withstand the local climate.",
+        "localContext": "We are experienced in working with the various housing styles found in Miramar, ensuring that our renovations complement the existing architecture and meet the needs of local homeowners.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Miami Gardens",
+          "Weston"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Oscar and his team did an amazing job remodeling my kitchen. They were professional, reliable, and the quality of their work was outstanding. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Roofing Repair",
+        "text": "Oscar General Contractor repaired a leak in my roof quickly and efficiently. They were very responsive and the price was fair. I would definitely use them again.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Impact Window Installation",
+        "text": "I had Oscar General Contractor install impact windows throughout my home. They were professional, courteous, and the installation was flawless. I feel much safer now knowing my home is protected from hurricanes.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Bathroom Remodeling",
+        "text": "Oscar and his crew completely transformed my outdated bathroom into a modern oasis. They paid attention to every detail and the finished product exceeded my expectations. I am thrilled with the results!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Karen P.",
+        "rating": 4,
+        "service": "Concrete Driveway",
+        "text": "Oscar General Contractor poured a new concrete driveway for my home. The work was done quickly and professionally, and the driveway looks great. I would recommend them to anyone needing concrete work.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Oscar's team painted the interior of my condo in Brickell, and they did an excellent job. Very neat, efficient, and the color consultation was spot-on. Highly recommend!",
+        "date": "2024-09-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami General Contractor | Oscar GC",
+        "description": "Expert home renovations, roofing, impact windows & more in Miami, FL. Trusted, local contractor. Free estimates!"
+      },
+      "about": {
+        "title": "About Oscar General Contractor",
+        "description": "Learn about Oscar General Contractor's commitment to quality, integrity, and community in Miami, FL."
+      },
+      "services": {
+        "title": "Oscar General Contractor Services",
+        "description": "Comprehensive general contractor services in Miami: renovations, roofing, impact windows, painting, & more."
+      },
+      "contact": {
+        "title": "Contact Oscar General Contractor",
+        "description": "Contact Oscar General Contractor for a free consultation and estimate. Serving Miami-Dade & Broward counties."
+      },
+      "reviews": {
+        "title": "Oscar General Contractor Reviews",
+        "description": "Read what our satisfied clients have to say about Oscar General Contractor's quality workmanship and exceptional service."
+      },
+      "service-areas": {
+        "title": "Oscar General Contractor Service Areas",
+        "description": "Oscar General Contractor provides services throughout Miami-Dade and Broward counties. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "home-renovations": "/images/service-home-renovations.webp",
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "impact-windows-doors": "/images/service-impact-windows-doors.webp",
+      "concrete-work": "/images/service-concrete-work.webp",
+      "painting-services": "/images/service-painting-services.webp"
+    },
+    "servicesResponsive": {
+      "home-renovations": {
+        "src": "/images/service-home-renovations.webp",
+        "srcset": "/images/service-home-renovations-400w.webp 400w, /images/service-home-renovations-800w.webp 800w, /images/service-home-renovations-1200w.webp 1200w, /images/service-home-renovations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "impact-windows-doors": {
+        "src": "/images/service-impact-windows-doors.webp",
+        "srcset": "/images/service-impact-windows-doors-400w.webp 400w, /images/service-impact-windows-doors-800w.webp 800w, /images/service-impact-windows-doors-1200w.webp 1200w, /images/service-impact-windows-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-work": {
+        "src": "/images/service-concrete-work.webp",
+        "srcset": "/images/service-concrete-work-400w.webp 400w, /images/service-concrete-work-800w.webp 800w, /images/service-concrete-work-1200w.webp 1200w, /images/service-concrete-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
